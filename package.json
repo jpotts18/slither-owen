@@ -1,0 +1,21 @@
+{
+  "name": "slither-io-clone",
+  "version": "1.0.0",
+  "description": "A Slither.io clone using Phaser 3",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [
+    "game",
+    "phaser",
+    "slither.io",
+    "html5"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
